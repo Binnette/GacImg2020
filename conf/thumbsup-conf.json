@@ -1,6 +1,6 @@
 {
   "input": "./original",
-  "output": "./web",
+  "output": "./docs",
   "title": "⛰️ GAC Photos 2020",
   "home-album-name": "Grenoble Adventure Club",
   "sort-albums-by": "title",
